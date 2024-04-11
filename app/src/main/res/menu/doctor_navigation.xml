@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_all_patients"
+        android:icon="@drawable/all_patient"
+        android:title="@string/title_all_patients" />
+    <item
+        android:id="@+id/navigation_appointments"
+        android:icon="@drawable/appointment"
+        android:title="@string/title_appointments" />
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/bell"
+        android:title="@string/title_notifications" />
+</menu>

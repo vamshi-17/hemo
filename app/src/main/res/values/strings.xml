@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Accept</string>
+    <string name="add_symptoms">Add Symptoms</string>
+    <string name="adding_symptoms">Adding Symptoms..Please wait.</string>
+    <string name="address">Address:</string>
+    <string name="admin_add_doctor">Add Doctor</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="admin_roles">Admin Roles</string>
+    <string name="app_name">Hemo</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="are_you_sure_logout">Are you sure you want to logout?</string>
+    <string name="blood_groups">Blood Groups</string>
+    <string name="blood_plasma_list">Blood/ Plasma Requests</string>
+    <string name="book_a_slot">Book A Slot</string>
+    <string name="book_an_appointment">Book An Appointment</string>
+    <string name="book_appointment">Booking Appointment..Please wait.</string>
+    <string name="book_slot">Book Slot for Donation</string>
+    <string name="cancel">Cancel</string>
+    <string name="chat">Chat</string>
+    <string name="chip_text">Chip text</string>
+    <string name="choose_consult_type">Choose Consulation Type</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="choose_for">Choose Request is For</string>
+    <string name="choose_prescription">Please choose precription</string>
+    <string name="choose_request_type">Choose Request Type</string>
+    <string name="consult_date">Consult Date:</string>
+    <string name="correct_details">Please Enter valid Credentials to Login</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="crop_image_activity_title" />
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="date">Date : %1$s</string>
+
+    <string name="dialog_ok_button">Ok</string>
+    <string name="doctor_details">Doctor Details</string>
+    <string name="doctor_email">Doctor Email:</string>
+    <string name="doctor_login">Doctor Login</string>
+    <string name="doctor_name">Doctor Name:</string>
+    <string name="doctor_profile">Doctor Profile</string>
+    <string name="doctors">Doctor</string>
+    <string name="doctors_fragment">Doctors blank fragment</string>
+    <string name="doctors_list">Doctors List</string>
+    <string name="donation_status">Donor is already accepted for donation with another hospital</string>
+    <string name="donor">Donor</string>
+    <string name="donor_details">Donor Details</string>
+    <string name="donor_login">Donor Login</string>
+    <string name="donor_register">Donor Registration</string>
+    <string name="donors_list">Donors List</string>
+    <string name="enter_address">Please Enter Address</string>
+    <string name="enter_age">Please Enter Age</string>
+    <string name="enter_bloodgroup">Please Enter Blood Group</string>
+    <string name="enter_certifications">Please Enter Certifications</string>
+    <string name="enter_email">Please Enter Email</string>
+    <string name="enter_gender">Please Select Gender</string>
+    <string name="enter_hos_code">Please Enter Hospital Code</string>
+    <string name="enter_hos_name">Please Enter Hospital Name</string>
+    <string name="enter_hospital">Please Enter hospital</string>
+    <string name="enter_length_mobile">Please enter valid 10 digit mobile number</string>
+    <string name="enter_message">Enter Messasge</string>
+    <string name="enter_mobileNumber">Please Enter Mobile Number</string>
+    <string name="enter_name">Please Enter Patient Name</string>
+    <string name="enter_no_units">Please Enter No.of Units</string>
+    <string name="enter_password">Please Enter Password</string>
+    <string name="enter_preferred_doctor">Please Select Preferred Doctor Type</string>
+    <string name="enter_purpose">Please Enter Purpose</string>
+    <string name="enter_solutions">Please Enter Solutions</string>
+    <string name="enter_specialization">Please Select Specilization</string>
+    <string name="enter_suggestions">Enter Suggestions</string>
+    <string name="enter_symptoms">Please Enter Symptoms</string>
+    <string name="enter_valid_email">Please Enter valid Email-id</string>
+    <string name="enter_valid_mobile">Please enter valid mobile number</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password_txt">Forgot Password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home blank fragment</string>
+    <string name="hos_code">Hospital Code :</string>
+    <string name="hosp_list">Hospital List</string>
+    <string name="hospital">Hospital</string>
+    <string name="hospital_login">Hospital Login</string>
+    <string name="hospital_register">Hospital Registration</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="load_details">Loading details. Please wait.</string>
+    <string name="logout">Logout</string>
+    <string name="logout_success">Logged out successfully!</string>
+    <string name="notifications_fragment">Notifications blank fragment</string>
+    <string name="or">(OR)</string>
+    <string name="order_now">Share Prescription</string>
+    <string name="orders_list">Orders List</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="patient_details">Patient Details</string>
+    <string name="patient_email">Email:</string>
+    <string name="patient_login">Patient Login</string>
+    <string name="patient_mobile">Mobile Number:</string>
+    <string name="patient_profile">Patient Profile</string>
+    <string name="patient_register">Patient Registration</string>
+    <string name="patients">Patient</string>
+    <string name="patients_list">Patients List</string>
+    <string name="pharma_list">Pharmacy List</string>
+    <string name="pharma_register">Pharmacy Registration</string>
+    <string name="pharmacy_login">Pharmacy Login</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="prescription">Prescription</string>
+    <string name="prescription_list">Prescriptions List</string>
+    <string name="register">Register a new Account</string>
+    <string name="register_hospital">Register new Hospital</string>
+    <string name="registering_doctor">Registering Doctor. Please wait.....</string>
+    <string name="registering_donor">Registering donor. Please wait....</string>
+    <string name="registering_hospital">Registering Hospital. Please wait....</string>
+    <string name="registering_patient">Registering patient. Please wait....</string>
+    <string name="registering_pharma">Registering Pharmacy. Please wait.</string>
+    <string name="reject">Reject</string>
+    <string name="request_blood">Requesting Blood..Please wait.</string>
+    <string name="request_blood_plasma">Request Blood/Plasma</string>
+    <string name="search_menu_title">Search</string>
+    <string name="send_request">Send Request</string>
+    <string name="sending_request">Sending blood/plasma request. Please wait....</string>
+    <string name="specializations">Specializations</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="time">Time : %1$s</string>
+    <string name="title_all_patients">All Patients</string>
+    <string name="title_appointments">Appointments</string>
+    <string name="title_blood_plasma">Blood/Plasma Requests</string>
+    <string name="title_doctors">Doctors</string>
+    <string name="title_home">Home</string>
+    <string name="title_hosp_profile">Hospital Profile</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_request_donors">Request Donors</string>
+    <string name="updating_acceptance">Updating request acceptance, Please wait....</string>
+    <string name="updating_donor">Updating donor details, Please wait....</string>
+    <string name="updating_reject">Updating request rejection, Please wait....</string>
+    <string name="upload_prescription">Upload Prescription</string>
+    <string name="uploading_image">Uploading Image. Please Wait..</string>
+    <string name="uploading_prescription_details">Uploading Prescription Details</string>
+    <string name="view_donor">View Donor Details</string>
+    <string name="view_patient">View Patient Details</string>
+    <string name="view_pharma">View Pharmacy</string>
+
+    <string-array name="blood_group_list">
+        <item>A+</item>
+        <item>O+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>O-</item>
+        <item>B-</item>
+        <item>AB-</item>
+    </string-array>
+    <string-array name="consult_type">
+        <item>First Visit</item>
+        <item>Follow Up</item>
+        <item>Monthly Check-up</item>
+        <item>Emergency</item>
+    </string-array>
+    <string-array name="doctor_specialities_list">
+        <item>Anesthesiologist</item>
+        <item>Cardiologist</item>
+        <item>Dermatologist</item>
+        <item>Gastroenterologist</item>
+        <item>General physician</item>
+        <item>Gynecologist</item>
+        <item>Neurologist</item>
+        <item>Ophthalmologist</item>
+        <item>Orthopedic surgeon</item>
+        <item>Pediatrician</item>
+        <item>Radiologist</item>
+    </string-array>
+    <string-array name="gender_list">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="request_for_list">
+        <item>Parents</item>
+        <item>Self</item>
+        <item>Children</item>
+        <item>Spouse</item>
+        <item>Relatives</item>
+        <item>Friends</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="request_type_list">
+        <item>Blood</item>
+        <item>Plasma</item>
+        <item>Others</item>
+    </string-array>
+</resources>

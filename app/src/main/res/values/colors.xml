@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorAccent">#15717d</color>
+    <color name="colorPrimary">#c1272d</color>
+    <color name="colorPrimaryDark">#c1272d</color>
+    <color name="dialogErrorBackgroundColor">#c1272d</color>
+    <color name="dialogProgressBackgroundColor">#004c70</color>
+    <color name="dialogSuccessBackgroundColor">#00b576</color>
+    <color name="dialogWarningBackgroundColor">#f2c304</color>
+    <color name="red">#c1272d</color>
+    <color name="white">#ffffff</color>
+</resources>
